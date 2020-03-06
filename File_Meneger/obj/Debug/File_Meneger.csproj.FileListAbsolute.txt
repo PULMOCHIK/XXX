@@ -1,0 +1,9 @@
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\bin\Debug\File_Meneger.exe.config
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\bin\Debug\File_Meneger.exe
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\bin\Debug\File_Meneger.pdb
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.csprojAssemblyReference.cache
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.Form1.resources
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.Properties.Resources.resources
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.csproj.GenerateResource.cache
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.exe
+C:\Users\deshu\source\repos\File_Meneger\File_Meneger\obj\Debug\File_Meneger.pdb
