@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trey", "Trey\Trey.csproj", "{27832D8B-B3E6-45A5-82CE-D9E9C07AE6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27832D8B-B3E6-45A5-82CE-D9E9C07AE6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27832D8B-B3E6-45A5-82CE-D9E9C07AE6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27832D8B-B3E6-45A5-82CE-D9E9C07AE6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27832D8B-B3E6-45A5-82CE-D9E9C07AE6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655FBA07-AF52-4310-94E6-AAC32C0C8996}
+	EndGlobalSection
+EndGlobal

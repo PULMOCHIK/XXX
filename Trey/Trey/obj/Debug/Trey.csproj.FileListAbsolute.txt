@@ -1,0 +1,9 @@
+C:\Users\deshu\source\repos\Trey\Trey\bin\Debug\Trey.exe.config
+C:\Users\deshu\source\repos\Trey\Trey\bin\Debug\Trey.exe
+C:\Users\deshu\source\repos\Trey\Trey\bin\Debug\Trey.pdb
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.csprojAssemblyReference.cache
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.Form1.resources
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.Properties.Resources.resources
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.csproj.GenerateResource.cache
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.exe
+C:\Users\deshu\source\repos\Trey\Trey\obj\Debug\Trey.pdb
